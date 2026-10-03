@@ -532,6 +532,10 @@ footer{
     .cl-number{
         max-width: none;
     }
+
+    .section-head{
+        width: 100vw;
+    }
 }
 
 @media (max-width: 507px) {
