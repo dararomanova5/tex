@@ -291,7 +291,6 @@ strong{
     display: flex;
     flex-direction: column;
     gap:1.5vw;
-    width: 50vw;
 }
 
 .service-cell{
@@ -531,10 +530,6 @@ footer{
 
     .cl-number{
         max-width: none;
-    }
-
-    .section-head{
-        width: 100vw;
     }
 }
 
